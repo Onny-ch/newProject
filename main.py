@@ -2,9 +2,9 @@ def func():
     pass
 
 
-def bar():
+def foo():
     pass
 
 
 def boo():
-    ...
+    pass
