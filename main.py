@@ -1,6 +1,10 @@
+def func():
+    pass
+
+
 def bar():
     pass
 
 
-def func():
-    pass
+def boo():
+    ...
